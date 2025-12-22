@@ -1,5 +1,6 @@
  # AUTOREPLY AS YOU
-REPLY OR RESPONCE IS SHOW ONLY ON TERMINAL
+   REPLY OR RESPONCE IS SHOW ONLY ON TERMINAL
+   Very Importemt Thing Is Internet, Internet Connection Is Mandatory
 <p align="left">
   <img src="requirement.png" width="400">
 </p>
