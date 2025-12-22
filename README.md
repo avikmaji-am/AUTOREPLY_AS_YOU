@@ -1,15 +1,30 @@
- # AUTOREPLY AS YOU
-   REPLY OR RESPONCE IS SHOW ONLY ON TERMINAL
-   Very Importemt Thing Is Internet, Internet Connection Is Mandatory
+<!-- IMPORTANT: AUTOREPLY SCRIPT -->
+<!-- REPLIES WILL BE SHOWN ONLY IN TERMINAL -->
+<!-- Internet connection is mandatory for proper execution -->
+
+<p align="center">
+  <strong>Requirements:</strong>
+</p>
+<p align="center">
+  <img src="requirement.png" width="400" alt="Requirements">
+</p>
+
+<p align="center">
+  <strong>Sample Output:</strong>
+</p>
+<p align="center">
+  <img src="Output.png" width="400" alt="Output">
+</p>
+
 <p align="left">
-  <img src="requirement.png" width="400">
+  <strong>Install Required Python Packages:</strong>
 </p>
-<p align="left" >
-  <img src="Output.png" width="400">
+<pre>
+pip install os        # For interacting with operating system
+pip install pyttsx3   # For text-to-speech functionality
+pip install openai    # For AI-based responses
+</pre>
+
+<p align="left">
+  <em>Note:</em> Make sure you have a stable internet connection before running the script.
 </p>
-THE COMMANDS ARE IN BELOW
-<ol>pip install os</ol>
-<ol>pip install pyttsx3</ol>
-<ol>pip install openai</ol>
-
-
