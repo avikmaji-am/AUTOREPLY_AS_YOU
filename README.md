@@ -31,15 +31,74 @@
 
 <hr>
 
+<hr>
+
 <!-- 2 -->
-<h2>2️⃣ Installation Commands</h2>
+<h1>2️⃣ Installation Commands</h1>
+
+<h1><b>pyttsx3</b></h1>
+<p>
+  Install the Python text-to-speech engine used for converting text into voice output
+</p>
 
 <pre>
 pip install pyttsx3
+</pre>
+
+<h1><b>openai</b></h1>
+<p>
+  Install the OpenAI Python SDK used for generating AI-based automatic replies  
+  <b>(Internet required)</b>
+</p>
+
+<pre>
 pip install openai
 </pre>
 
 <hr>
+
+
+<hr>
+
+<!-- 3 -->
+<h1>3️⃣ Explore Required Modules in Detail</h1>
+
+<h1>
+  <b>os</b> :
+  <a href="https://docs.python.org/3/library/os.html" target="_blank">
+    https://docs.python.org/3/library/os.html
+  </a>
+</h1>
+<p>
+  Provides functions to interact with the operating system such as file handling,
+  directory navigation, environment variables, and process management.
+</p>
+
+<h1>
+  <b>pyttsx3</b> :
+  <a href="https://pyttsx3.readthedocs.io/en/latest/" target="_blank">
+    https://pyttsx3.readthedocs.io
+  </a>
+</h1>
+<p>
+  A text-to-speech conversion library that works offline and supports multiple
+  voices and speech rate control.
+</p>
+
+<h1>
+  <b>openai</b> :
+  <a href="https://platform.openai.com/docs" target="_blank">
+    https://platform.openai.com/docs
+  </a>
+</h1>
+<p>
+  Official OpenAI documentation to build AI-powered applications such as chatbots,
+  auto-reply systems, and intelligent assistants.
+</p>
+
+<hr>
+
+
 
 <h2 align="center">📌 Application Preview</h2>
 
