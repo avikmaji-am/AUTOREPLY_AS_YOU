@@ -41,9 +41,10 @@
   Install the Python text-to-speech engine used for converting text into voice output
 </p>
 
-<pre>
+```bash
 pip install pyttsx3
-</pre>
+
+```
 
 <h1><b>openai</b></h1>
 <p>
@@ -51,9 +52,9 @@ pip install pyttsx3
   <b>(Internet required)</b>
 </p>
 
-<pre>
+```bash
 pip install openai
-</pre>
+ ```
 
 <hr>
 
