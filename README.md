@@ -77,7 +77,7 @@ pip install openai
 
 <h1>
   <b>pyttsx3</b> :
-  <a href="[https://pyttsx3.readthedocs.io/en/latest/](https://pypi.org/project/pyttsx3/)" target="_blank">
+  <a href="https://pyttsx3.readthedocs.io/en/latest/](https://pypi.org/project/pyttsx3/" target="_blank">
     https://pyttsx3.readthedocs.io
   </a>
 </h1>
