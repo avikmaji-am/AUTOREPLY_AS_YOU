@@ -31,23 +31,23 @@
 
 <br>
 <hr>
-
+<!-- 2 -->
 <hr>
 
-<h1 align="center">
+<h1 align="left">
   <span style="color: #00f2fe;">2️⃣</span> 
   <span style="background: linear-gradient(to right, #00f2fe, #4facfe); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-weight: bold;">
     Installation Commands
   </span>
 </h1>
 
-<p align="center">
+<p align="left">
   <i>Run these commands in your terminal to set up the environment</i>
 </p>
 
 <br>
 
-<div align="center">
+<div align="left">
   <img src="https://img.shields.io/badge/INSTALL-PYTTSX3-00f2fe?style=for-the-badge&logo=python&logoColor=black" />
 </div>
 
@@ -69,7 +69,7 @@ pip install pyttsx3
   </span>
 </h1>
 
-<p align="center">
+<p align="left">
   <i>Dive deeper into the official documentation and technical specifications</i>
 </p>
 
