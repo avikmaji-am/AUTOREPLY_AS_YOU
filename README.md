@@ -6,6 +6,7 @@
 <!-- • Replies are shown ONLY in the terminal -->
 <!-- • Internet connection is MANDATORY -->
 
+
 <hr>
 
 <!-- 1 -->
@@ -31,34 +32,33 @@
 <br>
 <hr>
 
-<!-- 2 -->
-<h1>2️⃣ Installation Commands</h1>
+<hr>
 
-<h1><b>pyttsx3</b></h1>
-<p>
-  Install the Python text-to-speech engine used for converting text into voice output
+<h1 align="center">
+  <span style="color: #00f2fe;">2️⃣</span> 
+  <span style="background: linear-gradient(to right, #00f2fe, #4facfe); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-weight: bold;">
+    Installation Commands
+  </span>
+</h1>
+
+<p align="center">
+  <i>Run these commands in your terminal to set up the environment</i>
+</p>
+
+<br>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/INSTALL-PYTTSX3-00f2fe?style=for-the-badge&logo=python&logoColor=black" />
+</div>
+
+<h2 style="color: #00f2fe; border-bottom: 1px solid #00f2fe; padding-bottom: 5px;">pyttsx3</h2>
+<p style="font-size: 1.1em;">
+  Install the Python text-to-speech engine used for converting text into voice output.
 </p>
 
 ```bash
 pip install pyttsx3
-
 ```
-
-<h1><b>openai</b></h1>
-<p>
-  Install the OpenAI Python SDK used for generating AI-based automatic replies  
-  <b>(Internet required)</b>
-</p>
-
-```bash
-pip install openai
- ```
-
-<hr>
-
-
-<hr>
-
 <!-- 3 -->
 <h1>3️⃣ Explore Required Modules in Detail</h1>
 
