@@ -12,7 +12,7 @@
 <!-- 1 -->
 <hr>
 
-<h1 align="center">
+<h1 align="left">
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" alt="Gear" width="35" /> 
   <span style="color: #6366f1;">1️⃣ Required Python Modules & Their Uses</span>
 </h1>
