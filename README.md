@@ -9,28 +9,26 @@
 <hr>
 
 <!-- 1 -->
-<h1>1️⃣ Required Python Modules & Their Uses</h1>
-
-<h1><b>os</b></h1>
-<p>
-  Interact with the operating system  
-  (file handling, directory paths, environment variables)  
-  <b>[Built-in]</b>
-</p>
-
-<h1><b>pyttsx3</b></h1>
-<p>
-  Convert text into speech using an offline text-to-voice engine
-</p>
-
-<h1><b>openai</b></h1>
-<p>
-  Generate AI-based automatic replies using OpenAI models  
-  <b>(Internet required)</b>
-</p>
-
 <hr>
 
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" alt="Gear" width="35" /> 
+  <span style="color: #6366f1;">1️⃣ Required Python Modules & Their Uses</span>
+</h1>
+
+<br>
+
+<div align="center">
+
+| Module | Description | Status |
+| :--- | :--- | :--- |
+| <img src="https://img.shields.io/badge/os-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" /> | **Interact with the operating system** <br> (file handling, directory paths, environment variables) | <kbd><b>[Built-in]</b></kbd> |
+| <img src="https://img.shields.io/badge/pyttsx3-%23FFD43B.svg?style=for-the-badge&logo=python&logoColor=blue" /> | **Convert text into speech** <br> using an offline text-to-voice engine | <kbd><b>Offline</b></kbd> |
+| <img src="https://img.shields.io/badge/openai-%23412991.svg?style=for-the-badge&logo=openai&logoColor=white" /> | **Generate AI-based automatic replies** <br> using OpenAI models | <kbd style="background-color: #ef4444; color: white;"><b>(Internet required)</b></kbd> |
+
+</div>
+
+<br>
 <hr>
 
 <!-- 2 -->
