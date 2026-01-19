@@ -62,7 +62,7 @@ pip install pyttsx3
 <!-- 3 -->
 <hr>
 
-<h1 align="center">
+<h1 align="left">
   <span style="color: #a855f7;">3️⃣</span> 
   <span style="background: linear-gradient(to right, #a855f7, #ec4899); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-weight: bold;">
     Explore Required Modules in Detail
