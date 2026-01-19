@@ -125,38 +125,70 @@ pip install pyttsx3
 <hr>
 
 
+<!-- 4 -->
 
-<h2 align="center">📌 Application Preview</h2>
 
-<!-- IMAGES SIDE BY SIDE -->
+<hr>
+
+<div align="left">
+  <h2>
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Magnifying%20Glass%20Tilted%20Left.png" width="35" />
+    <span style="background: linear-gradient(to right, #ff8a00, #da1b60); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-weight: bold;">
+      📌 Application Preview
+    </span>
+  </h2>
+  <p style="color: #666; font-style: italic;">Explore the interface and the intelligent response system in action</p>
+</div>
+
+<br>
+
+<div align="center">
+  <table style="border-collapse: separate; border-spacing: 20px; border: none;">
+    <tr>
+      <td align="center" style="background-color: #f8fafc; border: 1px solid #e2e8f0; border-radius: 15px; padding: 15px; box-shadow: 0 4px 6px -1px rgba(0,0,0,0.1);">
+        <img src="https://img.shields.io/badge/Step_01-System_Setup-ff8a00?style=flat-square" style="margin-bottom: 10px;" />
+        <br>
+        <img src="requirement.png" width="380" alt="Requirements" style="border-radius: 8px; border: 1px solid #cbd5e1;">
+        <h3 style="color: #334155; margin-top: 15px;">📋 Requirements</h3>
+        <p style="color: #64748b; font-size: 0.9em; line-height: 1.4;">
+          Shows required setup, modules,<br>and environment
+        </p>
+      </td>
+      <td align="center" style="background-color: #f8fafc; border: 1px solid #e2e8f0; border-radius: 15px; padding: 15px; box-shadow: 0 4px 6px -1px rgba(0,0,0,0.1);">
+        <img src="https://img.shields.io/badge/Step_02-Live_Output-da1b60?style=flat-square" style="margin-bottom: 10px;" />
+        <br>
+        <img src="Output.png" width="380" alt="Output" style="border-radius: 8px; border: 1px solid #cbd5e1;">
+        <h3 style="color: #334155; margin-top: 15px;">🤖 Sample Output</h3>
+        <p style="color: #64748b; font-size: 0.9em; line-height: 1.4;">
+          Displays terminal-based AI<br>auto-reply response
+        </p>
+      </td>
+    </tr>
+  </table>
+</div>
+
 <p align="center">
-  <img src="requirement.png" width="350" alt="Requirements">
-  &nbsp;&nbsp;&nbsp;
-  <img src="Output.png" width="350" alt="Output">
-</p>
-
-<!-- IMAGE TITLES -->
-<p align="center">
-  <b>Requirements</b>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <b>Sample Output</b>
-</p>
-
-<!-- IMAGE DESCRIPTIONS -->
-<p align="center">
-  Shows required setup, modules, and environment
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  Displays terminal-based AI auto-reply response
+  <img src="https://img.shields.io/badge/Status-Visual_Verified-success?style=for-the-badge&logo=checkmarx&logoColor=white" />
 </p>
 
 <hr>
 
-<p>
-  <em>⚠️ Note:</em><br>
-  • <b>os</b> module comes pre-installed with Python<br>
-  • Active Internet connection is required for AI responses
-</p>
+<!-- 5 -->
 
-<!-- ============================================== -->
-<!--                END OF DOCUMENT                 -->
-<!-- ============================================== -->
+<br>
+
+<div align="left">
+  <table style="border: none; border-collapse: collapse;">
+    <tr>
+      <td style="background: #fff5f5; border-left: 8px solid #ff4d4d; border-radius: 10px; padding: 20px; box-shadow: 0 4px 10px rgba(0,0,0,0.05);">
+        <p style="margin: 0; font-size: 1.1em; line-height: 1.6;">
+          <span style="color: #ff4d4d; font-size: 1.2em;"><b>⚠️ Note:</b></span><br>
+          • <b>os</b> module comes pre-installed with Python<br>
+          • Active Internet connection is required for AI responses
+        </p>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br>
