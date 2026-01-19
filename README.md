@@ -60,40 +60,67 @@
 pip install pyttsx3
 ```
 <!-- 3 -->
-<h1>3️⃣ Explore Required Modules in Detail</h1>
+<hr>
 
-<h1>
-  <b>os</b> :
-  <a href="https://docs.python.org/3/library/os.html" target="_blank">
-    https://docs.python.org/3/library/os.html
-  </a>
+<h1 align="center">
+  <span style="color: #a855f7;">3️⃣</span> 
+  <span style="background: linear-gradient(to right, #a855f7, #ec4899); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-weight: bold;">
+    Explore Required Modules in Detail
+  </span>
 </h1>
-<p>
-  Provides functions to interact with the operating system such as file handling,
-  directory navigation, environment variables, and process management.
+
+<p align="center">
+  <i>Dive deeper into the official documentation and technical specifications</i>
 </p>
 
-<h1>
-  <b>pyttsx3</b> :
-  <a href="https://pypi.org/project/pyttsx3/" target="_blank">
-    https://pyttsx3.readthedocs.io
-  </a>
-</h1>
-<p>
-  A text-to-speech conversion library that works offline and supports multiple
-  voices and speech rate control.
-</p>
+<br>
 
-<h1>
-  <b>openai</b> :
-  <a href="https://platform.openai.com/docs" target="_blank">
-    https://platform.openai.com/docs
-  </a>
-</h1>
-<p>
-  Official OpenAI documentation to build AI-powered applications such as chatbots,
-  auto-reply systems, and intelligent assistants.
-</p>
+<table width="100%" style="border-collapse: collapse; border: none;">
+  <tr style="border: none;">
+    <td style="border: none; padding: 20px 0;">
+      <div align="left">
+        <a href="https://docs.python.org/3/library/os.html" target="_blank">
+          <img src="https://img.shields.io/badge/DOCUMENTATION-OS_CORE-%233776AB?style=for-the-badge&logo=python&logoColor=white" />
+        </a>
+      </div>
+      <h2 style="color: #3776AB; margin-top: 10px;">📂 os</h2>
+      <p style="font-size: 1.1em; color: #4b5563;">
+        Provides functions to interact with the operating system such as file handling, directory navigation, environment variables, and process management.
+      </p>
+      <a href="https://docs.python.org/3/library/os.html"><code>🔗 Official Python Docs →</code></a>
+    </td>
+  </tr>
+
+  <tr style="border: none;">
+    <td style="border: none; padding: 20px 0;">
+      <div align="left">
+        <a href="https://pypi.org/project/pyttsx3/" target="_blank">
+          <img src="https://img.shields.io/badge/DOCUMENTATION-PYTTSX3-%23FFD43B?style=for-the-badge&logo=audio-technica&logoColor=black" />
+        </a>
+      </div>
+      <h2 style="color: #d97706; margin-top: 10px;">🔊 pyttsx3</h2>
+      <p style="font-size: 1.1em; color: #4b5563;">
+        A text-to-speech conversion library that works offline and supports multiple voices and speech rate control.
+      </p>
+      <a href="https://pyttsx3.readthedocs.io"><code>🔗 ReadTheDocs Portal →</code></a>
+    </td>
+  </tr>
+
+  <tr style="border: none;">
+    <td style="border: none; padding: 20px 0;">
+      <div align="left">
+        <a href="https://platform.openai.com/docs" target="_blank">
+          <img src="https://img.shields.io/badge/DOCUMENTATION-OPENAI_API-%2374aa9c?style=for-the-badge&logo=openai&logoColor=white" />
+        </a>
+      </div>
+      <h2 style="color: #059669; margin-top: 10px;">🤖 openai</h2>
+      <p style="font-size: 1.1em; color: #4b5563;">
+        Official OpenAI documentation to build AI-powered applications such as chatbots, auto-reply systems, and intelligent assistants.
+      </p>
+      <a href="https://platform.openai.com/docs"><code>🔗 API Reference →</code></a>
+    </td>
+  </tr>
+</table>
 
 <hr>
 
